@@ -1,2 +1,0 @@
-# manojthedesigner
-Portfolio website
