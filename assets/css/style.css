@@ -170,24 +170,24 @@ Primary use:    pxdraft
   background-color: #9BD3D0; }
 
 .bg-2 {
-  background-color: #FEC447; }
+  background-color: #FEC447 !important; }
 
 .bg-3 {
-  background-color: #FECCB5; }
+  background-color: #FECCB5 !important; }
 
 .bg-4 {
-  background-color: #92B5FF; }
+  background-color: #92B5FF !important; }
 
 .bg-5 {
-  background-color: #C4D39B; }
+  background-color: #C4D39B !important; }
 
 .bg-6 {
-  background-color: #D2CEFF; }
+  background-color: #D2CEFF !important; }
   .bg-7 {
-    background-color: #ceffd2;
+    background-color: #ceffd2 !important;
   }
   .bg-8 {
-    background-color: #f3ac79;
+    background-color: #f3ac79 !important;
   }
 
 @media (prefers-reduced-motion: no-preference) {
