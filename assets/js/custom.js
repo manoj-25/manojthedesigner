@@ -262,6 +262,9 @@
   });
   // Document on Ready
   $(document).ready(function() {
+    $("#myBtn").click(function(){
+      $("#myModal").modal();
+    });
     WEA.particles(),
     WEA.HeaderFixd(),
     WEA.MenuClose(),
